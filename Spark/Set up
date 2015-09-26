@@ -1,0 +1,9 @@
+# Install Apache Spark on Ubuntu-14.04.2 LTS
+```
+sudo apt-get install openjdk-7-jdk
+sudo apt-get install scala
+wget http://apache.stu.edu.tw/spark/spark-1.5.0/spark-1.5.0-bin-hadoop2.6.tgz
+tar xvf spark-1.5.0-bin-hadoop2.6.tgz
+cd /spark-1.5.0-bin-hadoop2.6
+./spark-shell
+```
