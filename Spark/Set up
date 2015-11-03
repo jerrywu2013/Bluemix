@@ -8,3 +8,10 @@ tar xvf spark-1.5.0-bin-hadoop2.6.tgz
 cd /spark-1.5.0-bin-hadoop2.6/bin
 ./spark-shell
 ```
+
+# Install R on Ubuntu-14.04.2 LTS
+```
+sudo apt-get update
+sudo apt-get install r-base
+sudo apt-get install r-base-dev
+```
