@@ -7,6 +7,7 @@ wget http://apache.stu.edu.tw/spark/spark-1.5.0/spark-1.5.0-bin-hadoop2.6.tgz
 tar xvf spark-1.5.0-bin-hadoop2.6.tgz
 cd /spark-1.5.0-bin-hadoop2.6/bin
 ./spark-shell
+./sparkR
 ```
 
 # Install R on Ubuntu-14.04.2 LTS
