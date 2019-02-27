@@ -1,5 +1,5 @@
 # Git and Bluemix
-
+```
 Git clone
 Git add .
 Git commit -m “new”
@@ -34,5 +34,5 @@ Rebase
 去掉有問題內容
 重新針對檔案做Merge
 Push
-
+```
 
